@@ -34,6 +34,10 @@ public class UsoEmpleado {
 		
 		misEmpleados[0]=new Empleado ("Paco Gómez", 85000, 1990, 12 ,17);
 		
+		
+		fgytftyf
+		
+		
 		misEmpleados[1]=new Empleado ("Ana López", 95000, 1995, 06 ,02);
 		
 		misEmpleados[2]=new Empleado ("Ana Martín", 105000, 2002, 03 ,15);
